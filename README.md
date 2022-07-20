@@ -16,13 +16,11 @@
 
 ## Built with
 
-[![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
-[![Node.js](https://img.shields.io/badge/Node.js-v.12.13-green.svg?style=rounded-square)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v.13.3-blue.svg?style=rounded-square)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/Redis-v.6.2-red.svg?style=rounded-square)](https://redis.io/)
+[![React.js](https://img.shields.io/badge/Reactjs-100000?style=for-the-badge&logo=React&logoColor=white&labelColor=4B8286&color=7CD4D7)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/redux-100000?style=for-the-badge&logo=redux&logoColor=white&labelColor=6456D0&color=513EBA)](https://redux-toolkit.js.org/)
 
 ## Description about project
-Ankasa is a flight ticket booking application project that was built and developed as a team. This application makes it easy for you to order airline tickets anywhere and anytime because it is based online. Built with React Js on the frontend, Node Js and Express Js on the backend. The database used on this website is based on PostgreSQL which is operated using sequelize. The features available on this website include flight search features, flight filters, and transit filters.
+Lectronic App is an application for selling electronic devices. users can order products and make payments through the third application, namely Midtrans. and users can manage profiles. For the admin role, you can manage product and user. This application frontend is built with ReactJS using the redux package for state management
 
 ## Installation Steps
 
